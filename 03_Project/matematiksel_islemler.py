@@ -24,7 +24,3 @@ Alan=(3.14*Yaricap*Yaricap)
 
 print("Dairenin cevresi",Cevre,"ve alani",Alan,"dir")
 
-
-
-
-
