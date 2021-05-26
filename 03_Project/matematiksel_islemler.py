@@ -17,7 +17,7 @@ print("Alan",Alan)
 
 
 #Dairenin cevresi ve alani
-Yaricap=2
+Yaricap=5
 Cevre=2*3.14*Yaricap
 Alan=(3.14*Yaricap*Yaricap)
 
