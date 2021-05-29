@@ -6,3 +6,4 @@ def factorial(sayi):
         
 
 print(factorial(5))
+
