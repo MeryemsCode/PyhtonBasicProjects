@@ -13,10 +13,10 @@ for harf in sifre:                  #şifredeki her bir harf için
     if harf in buyuk:               #eğer büyük harf ise, sayilari bir arttır
         bhsayi=bhsayi+1
 
-    if harf in kucuk:
+    elif harf in kucuk:
         khsayi=khsayi+1
 
-    if harf in digit:
+    elif harf in digit:
         dsayi=dsayi+1
 
 #döngü bitti
