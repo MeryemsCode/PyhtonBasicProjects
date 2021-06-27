@@ -26,6 +26,7 @@ while giris!="0":
     if giris=="3":          #kayıt ara
         meyveadi=input("Meyve adı giriniz: ")    #meyveadi nı iste
         durum=meyveler.get(meyveadi,"Böyle bir meyve yok")   #var
+        print(f"{durum}")
     if giris=="4":             #tümünü listele
         for meyveadi in meyveler.keys():       #meyveler sözlüğündeki 
             print(meyveadi,meyveler[meyveadi])    #meyve adi ve fiyatlarını bas
